@@ -1,0 +1,7 @@
+Prueba tecnica Talana.
+
+El proyecto esta realizado completamente en python 
+
+ - El proyecto funciona a traves de la terminal.
+ - Se debe ingresar el nombre del archivo json a traves de la terminal el cual debe estar en la misma ruta que el script
+ - Si el archivo json no se encuentra en la misma ruta del script se debe escribir la ruta completa. ejem. c//mipc//talana.json
